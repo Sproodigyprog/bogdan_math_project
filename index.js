@@ -19,5 +19,5 @@ app.get('/integer_equation', function(req, res) {
   res.render('integer_equation');
 });
 
-// app.listen(8000);
+app.listen(8000);
 // console.log("Have fun at port 8000");
